@@ -1,19 +1,22 @@
-### Hi there 👋
+## Hey, I'm Brian 👋
 
-<!--
-**techCarpenter/techCarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's some stuff about me:
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. My [personal website](https://brianjdevries.com) built with [Eleventy](https://11ty.dev)
+2. A debt paydown tool called Topple built with [Vue.js](https://vuejs.org) (stay tuned)
 
+🌱 I’m currently learning the power of functional programming with Javascript and how to start working towards my [1000 true fans](https://ungated.media/article/tools/)
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/techCarpenter/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/techCarpenter/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/techCarpenter/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+💬 Ask me about [bullet journaling](https://bulletjournal.com/pages/learn), [the JAMstack](https://jamstack.org/), or functional programming.
+
+📫 How to reach me: [brian@brianjdevries.com](mailto:brian@brianjdevries.com) or [Twitter](https://twitter.com/brianjdevries)
+
+⚡ Fun fact: I enjoy refurbishing hand tools, especially old axe heads.
+
+---
+
+This profile is a part of the [octo-ring](https://octo-ring.com)
+
+[<<previous](https://octo-ring.com/p/techCarpenter/prev) | [random](https://octo-ring.com/p/techCarpenter/random) | [next>>](https://octo-ring.com/p/techCarpenter/next)
