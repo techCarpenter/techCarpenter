@@ -1,11 +1,11 @@
 ## Hey, I'm Brian 👋
 
-Here's some stuff about me:
+Here's some info about me:
 
 🔭 I’m currently working on:
 
 1. My [personal website](https://brianjdevries.com) built with [Eleventy](https://11ty.dev)
-2. A debt paydown tool called Topple built with [Vue.js](https://vuejs.org) (stay tuned)
+2. A debt paydown tool called [Topple](https://github.com/techcarpenter/topple) built with [Vue.js](https://vuejs.org)
 
 🌱 I’m currently learning the power of functional programming with Javascript and how to start working towards my [1000 true fans](https://ungated.media/article/tools/)
 
