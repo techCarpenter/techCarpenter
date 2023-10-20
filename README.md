@@ -2,7 +2,7 @@
 
 Read more about me on my website:
 
-[brianjdevries.com/about](https://brianjdevries.com/about)
+[brianjdevries.com/about/](https://brianjdevries.com/about/?utm_source=github+readme&utm_medium=github+readme&utm_campaign=github+readme)
 
 <!--
 
